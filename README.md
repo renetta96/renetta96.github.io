@@ -1,6 +1,6 @@
 > I generated speech lines using OpenAI GPT. If you find any weird dialogue, please report in the comment.
 
-I also added a skill tree. It's a work in progress. Will gradually add more skills, refine FX, balance, etc.
+> I also added a skill tree. It's a work in progress. Will gradually add more skills, refine FX, balance, etc.
 
 # **Introduction**
 
@@ -13,13 +13,13 @@ I also added a skill tree. It's a work in progress. Will gradually add more skil
 - Damage modifier: 0.75
 
 **Perks**
-- After eating 10 pollen, he will get 1 honey.
 - Has 70% chance to summon bees on attack, maximum of 4. Initially he has a pool of maximum 6 bees, when a bee is summoned, it takes some time based on his hunger to refill the pool.
-- Gains 25% bonus from [honeyed and sweet foods](https://dontstarve.fandom.com/wiki/Sweetener). Only get 50% from non-honeyed foods.
+- Gains 25% bonus from [honeyed and sweet foods](https://dontstarve.fandom.com/wiki/Sweetener). Only get 50% from non-honeyed foods. His favorite food is Honey Ham.
 - Runs faster in spring, slower in winter.
 - Has coldness resistance based on number of symbiotic bees he currently has.
+- Can gather pollen from flowers. Produce 1 honey after eating 10 pollen.
 - Won't trigger wasp hives and bee box when harvesting.
-- His favorite food is Honey Ham.
+
 
 # **Details**
 
@@ -33,6 +33,7 @@ I also added a skill tree. It's a work in progress. Will gradually add more skil
 - Level 2 & 3 each adds 1 extra to Wuzzy's bees pool.
 - Level 3 has a lamp that lights on at night.
 
+
 ## **Metapis Container**
 ![Metapis Container](https://i.imgur.com/ULxlGL6.png)
 - Limit to 1 per Mother Hive.
@@ -40,9 +41,12 @@ I also added a skill tree. It's a work in progress. Will gradually add more skil
 - Can contain Honey Armor to refresh it using honey.
 - Produces up to 3 honeys from pollen every minute. Each honey costs 5 to 7 pollen.
 
+
 ## **Metapis Teleportal**
 ![Metapis Teleportal](https://i.imgur.com/rlj8EYM.png)
+
 **Tier:** ![Tier](https://i.imgur.com/l03Rzrl.png)
+
 - Teleports bees from Mother Hive to fight for Wuzzy.
 
 ## **Child Hives**
@@ -52,32 +56,44 @@ I also added a skill tree. It's a work in progress. Will gradually add more skil
 
 ### **Metapis Moonguard Hive**
 ![Metapis Moonguard Hive](https://i.imgur.com/zI5m1RN.png)
+
 **Tier:** ![Tier](https://i.imgur.com/bKTYiQp.png)
+
 Recipe: 2 Beefalo Horn, 1 Honeycomb, 10 Moonrock
 
 ### **Metapis Ranger Hive**
 ![Metapis Ranger Hive](https://i.imgur.com/gVnINaD.png)
+
 **Tier:** ![Tier](https://i.imgur.com/gCSTnmA.png), sold by ![Crabby Hermit](https://i.imgur.com/xbwpw3U.png) lv.6
+
 Recipe: 2 Volt Goat Horn, 1 Honeycomb, 8 Cookie Cutter Shell
 
 ### **Metapis Mutant Hive**
 ![Metapis Mutant Hive](https://i.imgur.com/U3UH707.png)
+
 **Tier:** ![Tier](https://i.imgur.com/IXiuiaI.png)
+
 Recipe: 8 Moon Moth Wings, 1 Honeycomb, 10 Moon Shard
 
 ### **Metapis Shadow Hive**
 ![Metapis Shadow Hive](https://i.imgur.com/lyiuEVG.png)
+
 **Tier:** ![Tier](https://i.imgur.com/Zl7jKJd.png)
+
 Recipe: 10 Nightmare Fuel, 1 Honeycomb, 6 Thulecite
 
 ### **Metapis Alchemist Hive**
 ![Metapis Alchemist Hive](https://i.imgur.com/nIszzPl.png)
+
 **Unlock after defeating Bee Queen 3 times (non-retroactively).**
+
 Recipe: 8 Butterfly, 1 Honeycomb, 6 Papyrus.
 
 ### **Metapis Barrack**
 ![Metapis Barrack](https://i.imgur.com/5ETpbz4.png)
+
 **Tier:** ![Tier](https://i.imgur.com/ldR9iTj.png)
+
 Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 - Adds 2 bees to Mother Hive.
 - Adds 1 bee to Wuzzy.
@@ -156,4 +172,5 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 # **Others**
 - Wuzzy has a widget to show the current number of symbiotic bees inside him and the regeneration progress.
+
 ![Widget 1](https://i.imgur.com/fpW3Zyr.png)![Widget 2](https://i.imgur.com/Q73cwy7.png)![Widget 3](https://i.imgur.com/Uc8bcq8.png)![Widget 4](https://i.imgur.com/We79Y0w.png)
