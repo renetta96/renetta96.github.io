@@ -37,7 +37,7 @@
 ## **Metapis Container**
 ![Metapis Container](https://i.imgur.com/ULxlGL6.png)
 - Limit to 1 per Mother Hive.
-- Can contain honey and pollen. Honey stops perishing when put into the hive.
+- Can contain honey and pollen. Honey stops perishing when put into the container.
 - Can contain Honey Armor to refresh it using honey.
 - Produces up to 3 honeys from pollen every minute. Each honey costs 5 to 7 pollen.
 
@@ -129,8 +129,8 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 ### **Metapis Mutant**
 ![Metapis Mutant](https://i.imgur.com/reEZHi5.png)
 - Moves fast.
-- Mother Hive stage 2: poison attack.
-- Mother Hive stage 3: deal backstab damage. Combo well with Moonguard's Taunt.
+- Mother Hive stage 2: deal backstab damage. Combo well with Moonguard's Taunt.
+- Mother Hive stage 3: poison attack.
 
 ### **Metapis Shadow**
 ![Metapis Shadow](https://i.imgur.com/nkenvEZ.png)
