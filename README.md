@@ -2,7 +2,14 @@
 
 > I also added a skill tree. It's a work in progress. Will gradually add more skills, refine FX, balance, etc.
 
-# **Introduction**
+# Table of Contents
+- [Introduction](#introduction)
+- [Hives](#hives)
+- [Metapises](#metapis)
+- [Items](#items)
+- [Others](#others)
+
+# **Introduction** <a name="introduction"></a>
 
 *Wuzzy is the bee master, with his own family of bees. The bees are called Metapis (apis is bee in Latin, so Metapis means Metabee, just like Metahuman).*
 
@@ -21,7 +28,7 @@
 - Won't trigger wasp hives and bee box when harvesting.
 
 
-# **Details**
+# **Hives** <a name="hives"></a>
 
 ## **Metapis Mother Hive**
 ![Metapis Mother Hive](https://i.imgur.com/1zfmgxb.png)
@@ -99,58 +106,52 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 - Adds 1 bee to Wuzzy.
 - Makes Mother Hive regen bees faster.
 
-## **Metapises**
+# **Metapises** <a name="metapis"></a>
 
-### **Metapis Worker**
+## **Metapis Worker**
 ![Metapis Worker](https://i.imgur.com/02GVD42.png)
 - Pollinates flowers and stores pollen in the Metapis Container.
 - Will not fight, instead go back home or run away.
 - Brings more pollen home as Mother Hive's stage advances.
 
-### **Metapis Soldier**
+## **Metapis Soldier**
 ![Metapis Soldier](https://i.imgur.com/T01zomk.png)
 - Can be spawned/summoned by default.
 - Mother Hive stage 2: +25% damage absorption.
 - Mother Hive stage 3: has 35% chance to immediately reset attack cooldown on attacked.
 
-### **Metapis Moonguard**
+## **Metapis Moonguard**
 ![Metapis Moonguard](https://i.imgur.com/lpDqOAP.png)
 - Tanky.
 - Taunts nearby enemies every second.
 - Mother Hive stage 2: +50% damage absorption.
 - Mother Hive stage 3: on hit, slow attacker's attack speed + movement speed, freeze attacker when stack enough (like Chilled Amulet).
 
-### **Metapis Ranger**
+## **Metapis Ranger**
 ![Metapis Ranger](https://i.imgur.com/cbxDU26.png)
 - Slow & long ranged attack.
 - Mother Hive stage 2: add electric effect to attack, which adds 50% bonus damage.
 - Mother Hive stage 3: every 12 secs, attack twice quickly (no cooldown between 2 attacks).
 
-### **Metapis Mutant**
+## **Metapis Mutant**
 ![Metapis Mutant](https://i.imgur.com/reEZHi5.png)
 - Moves fast.
 - Mother Hive stage 2: deal backstab damage. Combo well with Moonguard's Taunt.
 - Mother Hive stage 3: poison attack.
 
-### **Metapis Shadow**
+## **Metapis Shadow**
 ![Metapis Shadow](https://i.imgur.com/nkenvEZ.png)
 - Medium ranged attack. Each attack summons a spike to strike the enemy, 2 more spikes to strike nearby enemies.
 - Mother Hive stage 2: teleport away to avoid when attacked.
 - Mother Hive stage 3: spike 1 more enemy per attack.
 
-### **Metapis Alchemist**
+## **Metapis Alchemist**
 ![Metapis Alchemist](https://i.imgur.com/mkCEPdR.png)
 - Periodically heal another bee. Amount increases per attack between healings.
 - Mother Hive stage 2: heals 2 more bees.
 - Mother Hive stage 3: heals 3 more bees. Also periodically throws a healing orb for Wuzzy nearby. Consecutive orbs within 10 seconds heal less, to a minimum of 30% effectiveness.
 
-## **Pollen**
-![Pollen](https://i.imgur.com/aatBqPp.png)
-- Can be picked from flowers. Regrows after 2 days in game.
-- Is edible, but very minor benefit.
-- Perishes in 10 days, but 5 times faster if it gets wet.
-- Stops perishing when put in the hive.
-- In winter, flowers stop producing pollen, only resume in spring. In spring, there is 50% chance to pick 2 pollen from a flower.
+# **Items** <a name="items"></a>
 
 ## **Honey Suit**
 ![Honey Suit](https://i.imgur.com/KScIwLf.png)
@@ -170,7 +171,15 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 - Slows foes when they step on it. Deals 10 damage periodically to all foes. Consumes 1 use per foe.
 - Spoils after 8 days, has 250 uses.
 
-# **Others**
+## **Pollen**
+![Pollen](https://i.imgur.com/aatBqPp.png)
+- Can be picked from flowers. Regrows after 2 days in game.
+- Is edible, but very minor benefit.
+- Perishes in 10 days, but 5 times faster if it gets wet.
+- Stops perishing when put in the hive.
+- In winter, flowers stop producing pollen, only resume in spring. In spring, there is 50% chance to pick 2 pollen from a flower.
+
+# **Others** <a name="others"></a>
 - Wuzzy has a widget to show the current number of symbiotic bees inside him and the regeneration progress.
 
 ![Widget 1](https://i.imgur.com/fpW3Zyr.png)![Widget 2](https://i.imgur.com/Q73cwy7.png)![Widget 3](https://i.imgur.com/Uc8bcq8.png)![Widget 4](https://i.imgur.com/We79Y0w.png)
