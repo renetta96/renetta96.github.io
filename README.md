@@ -7,6 +7,7 @@
 - [Hives](#hives)
 - [Metapises](#metapis)
 - [Items](#items)
+- [Skill Tree](#skilltree)
 - [Others](#others)
 
 # **Introduction** <a name="introduction"></a>
@@ -179,6 +180,38 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 - Stops perishing when put in the hive.
 - In winter, flowers stop producing pollen, only resume in spring. In spring, there is 50% chance to pick 2 pollen from a flower.
 
+# **Skill Tree** <a name="skilltree"></a>
+
+## **Honeysmith** 
+
+*WIP*
+
+## **Metapis**
+
+### **Metapis Mutant**
+| Skill              | Description | Prerequisites |
+| :----------------: | :------ | :---- |
+| ![](https://i.imgur.com/RBJYHEM.png) <br> Metapis Mutant I | Less poison base damage but it becomes stackable. Maximum 20 stacks. | Cannot activate more than 3 Metapis skill trees. |
+| ![](https://i.imgur.com/cCUfpks.png) <br> Metapis Mutant II | Directly summoned Metapis Mutants have a chance to coat Wuzzy's attacks in poison. This effect lasts 10 seconds. | Metapis Mutant I |
+
+### **Metapis Shadow**
+| Skill              | Description | Prerequisites |
+| :----------------: | :------ | :---- |
+| ![](https://i.imgur.com/OWlybvW.png) <br> Metapis Shadow I | Metapis Shadows can summon Shadowlings to attack enemies. These melee minions have health decay over time and any damage received is capped at 15% max health. | Cannot activate more than 3 Metapis skill trees. |
+| ![](https://i.imgur.com/2G7UMRd.png) <br> Metapis Shadow II | When Shadowlings die, they have a chance to damage nearby enemies with spikes. | Metapis Shadow I |
+| ![](https://i.imgur.com/iUPTfJS.png) <br> Metapis Shadow III | When a Metapis dies, there is a chance for it to spawn Shadowlings. | Metapis Shadow II |
+
+
+### **Metapis Moonguard**
+| Skill              | Description | Prerequisites |
+| :----------------: | :------ | :---- |
+| ![](https://i.imgur.com/TzUZcpD.png) <br> Metapis Moonguard I | Metapis Moonguards now reduce incoming damage by 30% to 80%, depending on their missing health, reaching maximum reduction at 30% health. Additionally, they possess a chance to shield nearby ally Metapises from any incoming damage. | Cannot activate more than 3 Metapis skill trees. |
+| ![](https://i.imgur.com/EMyZX2C.png) <br> Metapis Moonguard II | Metapis Moonguards have a chance to retaliate with an ice nova upon receiving any damage. This also applies to damage received from shielding allies. | Metapis Moonguard I |
+
+## **Affinity**
+
+*WIP*
+  
 # **Others** <a name="others"></a>
 - Wuzzy has a widget to show the current number of symbiotic bees inside him and the regeneration progress.
 
