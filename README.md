@@ -190,14 +190,14 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 ### **Metapis Mutant**
 
-| Skill              | Description | Prerequisites |
+| **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/RBJYHEM.png) <br> Metapis Mutant I | Less poison base damage but it becomes stackable. Maximum 20 stacks. | Cannot activate more than 3 Metapis skill trees. |
 | ![](https://i.imgur.com/cCUfpks.png) <br> Metapis Mutant II | Directly summoned Metapis Mutants have a chance to coat Wuzzy's attacks in poison. This effect lasts 10 seconds. | Metapis Mutant I |
 
 ### **Metapis Shadow**
 
-| Skill              | Description | Prerequisites |
+| **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/OWlybvW.png) <br> Metapis Shadow I | Metapis Shadows can summon Shadowlings to attack enemies. These melee minions have health decay over time and any damage received is capped at 15% max health. | Cannot activate more than 3 Metapis skill trees. |
 | ![](https://i.imgur.com/2G7UMRd.png) <br> Metapis Shadow II | When Shadowlings die, they have a chance to damage nearby enemies with spikes. | Metapis Shadow I |
@@ -206,7 +206,7 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 ### **Metapis Moonguard**
 
-| Skill              | Description | Prerequisites |
+| **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/TzUZcpD.png) <br> Metapis Moonguard I | Metapis Moonguards now reduce incoming damage by 30% to 80%, depending on their missing health, reaching maximum reduction at 30% health. Additionally, they possess a chance to shield nearby ally Metapises from any incoming damage. | Cannot activate more than 3 Metapis skill trees. |
 | ![](https://i.imgur.com/EMyZX2C.png) <br> Metapis Moonguard II | Metapis Moonguards have a chance to retaliate with an ice nova upon receiving any damage. This also applies to damage received from shielding allies. | Metapis Moonguard I |
