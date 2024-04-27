@@ -69,8 +69,8 @@
 
 Recipe: 2 Beefalo Horn, 1 Honeycomb, 10 Moonrock
 
-### **Metapis Ranger Hive**
-![Metapis Ranger Hive](https://i.imgur.com/gVnINaD.png)
+### **Metapis Voltwing Hive**
+![Metapis Voltwing Hive](https://i.imgur.com/gVnINaD.png)
 
 **Tier:** ![Tier](https://i.imgur.com/gCSTnmA.png), sold by ![Crabby Hermit](https://i.imgur.com/xbwpw3U.png) lv.6
 
@@ -128,11 +128,11 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 - Mother Hive stage 2: +50% damage absorption.
 - Mother Hive stage 3: on hit, slow attacker's attack speed + movement speed, freeze attacker when stack enough (like Chilled Amulet).
 
-## **Metapis Ranger**
-![Metapis Ranger](https://i.imgur.com/cbxDU26.png)
-- Slow & long ranged attack.
-- Mother Hive stage 2: add electric effect to attack, which adds 50% bonus damage.
-- Mother Hive stage 3: every 12 secs, attack twice quickly (no cooldown between 2 attacks).
+## **Metapis Voltwing**
+![Metapis Voltwing](https://i.imgur.com/hihMnda.png)
+- Slow & long ranged electric attack.
+- Mother Hive stage 2: has 30% chance to double strike.
+- Mother Hive stage 3: has 35% chance to double strike, 20% to tripple strike.
 
 ## **Metapis Mutant**
 ![Metapis Mutant](https://i.imgur.com/reEZHi5.png)
@@ -210,6 +210,13 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/TzUZcpD.png) <br> Metapis Moonguard I | Metapis Moonguards now reduce incoming damage by 30% to 80%, depending on their missing health, reaching maximum reduction at 30% health. Additionally, they possess a chance to shield nearby ally Metapises from any incoming damage. | Cannot activate more than 3 Metapis skill trees. |
 | ![](https://i.imgur.com/EMyZX2C.png) <br> Metapis Moonguard II | Metapis Moonguards have a chance to retaliate with an ice nova upon receiving any damage. This also applies to damage received from shielding allies. | Metapis Moonguard I |
+
+### **Metapis Voltwing**
+
+| **Skill** | **Description** | **Prerequisites** |
+| :----------------: | :------ | :---- |
+| ![](https://i.imgur.com/XsXNFX5.png) <br> Metapis Voltwing I | Metapis Voltwings orbit around their target, periodically firing electric balls. | Cannot activate more than 3 Metapis skill trees. |
+| ![](https://i.imgur.com/55LEHJV.png) <br> Metapis Voltwing II | Metapis Voltwings charge up electricity with each attack. At maximum charge, an electric wisp spawns and accelerates toward their target. | Metapis Voltwing I |
 
 ## **Affinity**
 
