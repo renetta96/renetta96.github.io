@@ -5,7 +5,7 @@
 # Table of Contents
 - [Introduction](#introduction)
 - [Hives](#hives)
-- [Metapises](#metapis)
+- [Metapises](#metapises)
 - [Items](#items)
 - [Skill Tree](#skilltree)
 - [Others](#others)
@@ -107,7 +107,7 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 - Adds 1 bee to Wuzzy.
 - Makes Mother Hive regen bees faster.
 
-# **Metapises** <a name="metapis"></a>
+# **Metapises** <a name="metapises"></a>
 
 ## **Metapis Worker**
 ![Metapis Worker](https://i.imgur.com/02GVD42.png)
