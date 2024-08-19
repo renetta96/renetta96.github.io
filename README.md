@@ -142,9 +142,13 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 ## **Metapis Shadow**
 ![Metapis Shadow](https://i.imgur.com/nkenvEZ.png)
-- Medium ranged attack. Each attack summons a spike to strike the enemy, 2 more spikes to strike nearby enemies.
+- Medium ranged AOE attack. Each attack summons AOE spikes to strike the enemy, enemies closer to the middle take more damage.
 - Mother Hive stage 2: teleport away to avoid when attacked.
-- Mother Hive stage 3: spike 1 more enemy per attack.
+- Mother Hive stage 3: increase damage area.
+
+## **Metapis Mimic**
+![Metapis Mimic](https://i.imgur.com/bfHIAo2.png)
+- Evolves from Metapis Soldier via Skill Tree. Randomly changes attacks based on nearby Metapises.
 
 ## **Metapis Alchemist**
 ![Metapis Alchemist](https://i.imgur.com/mkCEPdR.png)
@@ -208,8 +212,8 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
-| ![](https://i.imgur.com/TzUZcpD.png) <br> Metapis Moonguard I | Metapis Moonguards now reduce incoming damage by 30% to 80%, depending on their missing health, reaching maximum reduction at 30% health. Additionally, they possess a chance to shield nearby ally Metapises from any incoming damage. | Cannot activate more than 3 Metapis skill trees. |
-| ![](https://i.imgur.com/EMyZX2C.png) <br> Metapis Moonguard II | Metapis Moonguards have a chance to retaliate with an ice nova upon receiving any damage. This also applies to damage received from shielding allies. | Metapis Moonguard I |
+| ![](https://i.imgur.com/TzUZcpD.png) <br> Metapis Moonguard I | Metapis Moonguards now reduce incoming damage by 30% to 80%, depending on their missing health, reaching maximum reduction at 30% health. Additionally, they possess a chance to shield nearby ally Metapises from any incoming damage. Activates only at Mother Hive level 2. | Cannot activate more than 3 Metapis skill trees. |
+| ![](https://i.imgur.com/EMyZX2C.png) <br> Metapis Moonguard II | Metapis Moonguards have a chance to retaliate with an ice nova upon receiving any damage. This also applies to damage received from shielding allies. Activates only at Mother Hive level 3. | Metapis Moonguard I |
 
 ### **Metapis Voltwing**
 
@@ -217,6 +221,12 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/XsXNFX5.png) <br> Metapis Voltwing I | Metapis Voltwings orbit around their target, periodically firing electric balls. | Cannot activate more than 3 Metapis skill trees. |
 | ![](https://i.imgur.com/55LEHJV.png) <br> Metapis Voltwing II | Metapis Voltwings charge up electricity with each attack. At maximum charge, an electric wisp spawns and accelerates toward their target. | Metapis Voltwing I |
+
+### **Metapis Mimic**
+
+| **Skill** | **Description** | **Prerequisites** |
+| :----------------: | :------ | :---- |
+| ![](https://i.imgur.com/iqvUQKq.png) <br> Metapis Mimic I | Evolve Metapis Soldiers into Metapis Mimics, which randomly change their attacks based on nearby Metapises:<br> - Metapis Mutant: Deals poison attacks with poison ticks having a chance to deal increased damage.<br> - Metapis Shadow: Has a chance to cause a spike area attack.<br> - Metapis Moonguard: Freezes the target and deals extra % health damage when the target unfreezes.<br> - Metapis Voltwing: Has a chance to trigger an immediate attack from a nearby Voltwing. | Cannot activate more than 3 Metapis skill trees. |
 
 ## **Affinity**
 
