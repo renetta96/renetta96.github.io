@@ -148,7 +148,11 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 ## **Metapis Mimic**
 ![Metapis Mimic](https://i.imgur.com/bfHIAo2.png)
-- Evolves from Metapis Soldier via Skill Tree. Randomly changes attacks based on nearby Metapises.
+- Evolves from Metapis Soldier via Skill Tree. Randomly changes attacks based on nearby Metapises: 
+  + Metapis Mutant: Deals poison attacks and causes poison ticks to have a chance to deal increased damage.
+  + Metapis Shadow: Has a chance to cause a spike area attack.
+  + Metapis Moonguard: Freezes the target and deals extra % health damage when the target unfreezes.
+  + Metapis Voltwing: Has a chance to trigger an immediate attack from a nearby Voltwing.
 
 ## **Metapis Alchemist**
 ![Metapis Alchemist](https://i.imgur.com/mkCEPdR.png)
@@ -226,7 +230,7 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
-| ![](https://i.imgur.com/iqvUQKq.png) <br> Metapis Mimic I | Evolve Metapis Soldiers into Metapis Mimics, which randomly change their attacks based on nearby Metapises:<br> - Metapis Mutant: Deals poison attacks with poison ticks having a chance to deal increased damage.<br> - Metapis Shadow: Has a chance to cause a spike area attack.<br> - Metapis Moonguard: Freezes the target and deals extra % health damage when the target unfreezes.<br> - Metapis Voltwing: Has a chance to trigger an immediate attack from a nearby Voltwing. | Cannot activate more than 3 Metapis skill trees. |
+| ![](https://i.imgur.com/iqvUQKq.png) <br> Metapis Mimic I | Evolve Metapis Soldiers into Metapis Mimics, which randomly change their attacks based on nearby Metapises. | Cannot activate more than 3 Metapis skill trees. |
 
 ## **Affinity**
 
