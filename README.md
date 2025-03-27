@@ -190,9 +190,16 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 # **Skill Tree** <a name="skilltree"></a>
 
-## **Honeysmith** 
+## **Metapimancer**
 
-*WIP*
+
+| **Skill** | **Description** | **Prerequisites** |
+| :----------------: | :------ | :---- |
+| ![](https://i.imgur.com/RBJYHEM.png) <br> Tyrant I | Tyrant II | Shepherd skills are not unlocked. |
+| ![](https://i.imgur.com/cCUfpks.png) <br> Tyrant II | When attacked, Wuzzy may redirect 10x damage to 3 nearby Metapises, guaranteed at 30% HP. If too few Metapises are nearby, Wuzzy takes the hit. | Tyrant I |
+| ![](https://i.imgur.com/cCUfpks.png) <br> Shepherd I | Reduce Wuzzy's stats by 25%, set damage multipler to 0.6x. Boost all Metapises' health and damage by 25%. | Tyrant skills are not unlocked. |
+| ![](https://i.imgur.com/cCUfpks.png) <br> Shepherd II | When attacked, Wuzzy may enrage nearby Metapises, boosting their damage and speed. The chance and number affected increase as Wuzzy's health drops. | Shepherd I |
+
 
 ## **Metapis**
 
@@ -209,8 +216,6 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/OWlybvW.png) <br> Metapis Shadow I | Metapis Shadows can summon Shadowlings to attack enemies. These melee minions have health decay over time and any damage received is capped at 15% max health. | Cannot activate more than 3 Metapis skill trees. |
 | ![](https://i.imgur.com/2G7UMRd.png) <br> Metapis Shadow II | When Shadowlings die, they have a chance to damage nearby enemies with spikes. | Metapis Shadow I |
-| ![](https://i.imgur.com/iUPTfJS.png) <br> Metapis Shadow III | When a Metapis dies, there is a chance for it to spawn Shadowlings. | Metapis Shadow II |
-
 
 ### **Metapis Moonguard**
 
@@ -231,6 +236,13 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/iqvUQKq.png) <br> Metapis Mimic I | Evolve Metapis Soldiers into Metapis Mimics, which randomly change their attacks based on nearby Metapises. | Cannot activate more than 3 Metapis skill trees. |
+
+## **Honeysmith** 
+
+
+| **Skill** | **Description** | **Prerequisites** |
+| :----------------: | :------ | :---- |
+| ![](https://i.imgur.com/iqvUQKq.png) <br> Melissa I | Every 4th attack with Melissa, Wuzzy slams the target for 2x damage. Also double Melissa's max uses. | Available from the start. |
 
 ## **Affinity**
 
