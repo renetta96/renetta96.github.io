@@ -216,7 +216,7 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/OWlybvW.png) <br> Metapis Shadow I | Metapis Shadows can summon Shadowlings to attack enemies. These melee minions have health decay over time and any damage received is capped at 15% max health. | Cannot activate more than 4 Metapis skill trees. |
-| ![](https://i.imgur.com/2G7UMRd.png) <br> Metapis Shadow II | When Shadowlings die, they have a chance to damage nearby enemies with spikes. | Metapis Shadow I |
+| ![](https://i.imgur.com/2G7UMRd.png) <br> Metapis Shadow II | When a Metapis dies, there is a chance to spawn Shadowlings. When Shadowlings die, they have a chance to damage nearby enemies with spikes. | Metapis Shadow I |
 
 ### **Metapis Moonguard**
 
