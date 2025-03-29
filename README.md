@@ -106,7 +106,7 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 - Adds 2 bees to Mother Hive.
 - Adds 1 bee to Wuzzy.
 - Makes Mother Hive regen bees faster.
-- Boost bees' health and damage by this multiplier: 1 + log<sub>1.5</sub>num_barracks
+- Boost bees' health and damage by this multiplier: 1 + log_base_1.5(num_barracks)
 
 # **Metapises** <a name="metapises"></a>
 
