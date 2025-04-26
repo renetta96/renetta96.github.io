@@ -93,7 +93,7 @@ Recipe: 10 Nightmare Fuel, 1 Honeycomb, 6 Thulecite
 ### **Metapis Alchemist Hive**
 ![Metapis Alchemist Hive](https://i.imgur.com/nIszzPl.png)
 
-**Unlock after defeating Bee Queen 3 times (non-retroactively).**
+**Unlock after defeating Bee Queen 2 times (non-retroactively).**
 
 Recipe: 8 Butterfly, 1 Honeycomb, 6 Papyrus.
 
@@ -196,10 +196,10 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
-| ![](https://i.imgur.com/Bzcj5pE.png) <br> Tyrant I | Halve all Metapises' health and damage. Boost Wuzzy’s stats by 50% and set damage multiplier to 1.5x. | Shepherd skills are not unlocked. |
+| ![](https://i.imgur.com/Bzcj5pE.png) <br> Tyrant I | Halve all Metapises' health and damage. Boost Wuzzy’s stats and set damage multiplier to 1.05x - 1.5x based on Mother Hive upgrades. | Shepherd skills are not unlocked. |
 | ![](https://i.imgur.com/RFeicHP.png) <br> Tyrant II | When attacked, Wuzzy may redirect 10x damage to 3 nearby Metapises, guaranteed at 30% HP. If too few Metapises are nearby, Wuzzy takes the hit. | Tyrant I |
-| ![](https://i.imgur.com/jt487z6.png) <br> Shepherd I | Reduce Wuzzy's stats by 25%, set damage multipler to 0.6x. Boost all Metapises' health and damage by 25%. | Tyrant skills are not unlocked. |
-| ![](https://i.imgur.com/CNgbuzj.png) <br> Shepherd II | When attacked, Wuzzy may enrage nearby Metapises, boosting their damage and speed. The chance and number affected increase as Wuzzy's health drops. | Shepherd I |
+| ![](https://i.imgur.com/jt487z6.png) <br> Shepherd I | Reduce Wuzzy's stats, set damage multipler to 0.6x. Boost all Metapises' health and damage by 25%. Metapises are able to attack shadow creatures. | Tyrant skills are not unlocked. |
+| ![](https://i.imgur.com/CNgbuzj.png) <br> Shepherd II | Attacking or being attacked may enrage nearby Metapises, boosting their damage and speed. Chance and number affected scale with Wuzzy’s missing health. | Shepherd I |
 
 
 ## **Metapis**
@@ -244,6 +244,7 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/avtK6QQ.png) <br> Melissa I | Every 4th attack with Melissa, Wuzzy slams the target for 2x damage. Also double Melissa's max uses. | Available from the start. |
+| ![](https://i.imgur.com/sEuzkkR.png) <br> Melissa II | Wuzzy uses Melissa to switch places with another Metapis, at the cost of item durability. | Melissa I |
 
 ## **Affinity**
 
