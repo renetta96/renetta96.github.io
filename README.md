@@ -183,17 +183,14 @@ You can insert Tokens to control the types of Metapises you summon:
 
 **Examples:**
 
-1. Built Moonguard, Shadow, and Healer Hives. Slots: Moonguard x2, Shadow x2, empty x2.  
-   - For every 6 minions: 2 Moonguards, 2 Shadows, 2 random (Moonguard/Shadow/Healer).
+1. Built Moonguard, Shadow, and Alchemist Hives. Slots: Moonguard x2, Shadow x2, empty x2.  
+   - For every 6 minions: 2 Moonguards, 2 Shadows, 2 random (Moonguard/Shadow/Alchemist).
 
-2. Built Moonguard, Shadow, and Healer Hives. Slots: Shadow x6.  
+2. Built Moonguard, Shadow, and Alchemist Hives. Slots: Shadow x6.  
    - All summoned minions are Shadows.
 
-3. Built Moonguard, Shadow, and Healer Hives. Slots: Shadow x3, Moonguard x3.  
+3. Built Moonguard, Shadow, and Alchemist Hives. Slots: Shadow x3, Moonguard x3.  
    - 3 Shadows and 3 Moonguards per 6 minions.
-
-
-
 
 # **Items** <a name="items"></a>
 
