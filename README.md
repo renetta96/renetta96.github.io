@@ -6,6 +6,7 @@
 - [Introduction](#introduction)
 - [Hives](#hives)
 - [Metapises](#metapises)
+- [Tokens](#tokens)
 - [Items](#items)
 - [Skill Tree](#skilltree)
 - [Others](#others)
@@ -160,6 +161,39 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 - Periodically heal another bee. Amount increases per attack between healings.
 - Mother Hive stage 2: heals 2 more bees.
 - Mother Hive stage 3: heals 3 more bees. Also periodically throws a healing orb for Wuzzy nearby. Consecutive orbs within 10 seconds heal less, to a minimum of 30% effectiveness.
+
+# **Tokens** <a name="tokens"></a>
+
+![](https://i.imgur.com/0iWltIZ.png) ![](https://i.imgur.com/K2QWMui.png) ![](https://i.imgur.com/XRT2qlJ.png) ![](https://i.imgur.com/z25xjsL.png) ![](https://i.imgur.com/roEIMIv.png) ![](https://i.imgur.com/vug3xtj.png)
+
+There are 6 types of Tokens, each tied to a Metapis:
+
+- **Soldier/Mimic Token**: unlocked from the start.  
+- **Moonguard Token**: unlocked with Moonguard Hive.  
+- **Voltwing Token**: unlocked with Voltwing Hive.  
+- **Mutant Token**: unlocked with Mutant Hive.  
+- **Shadow Token**: unlocked with Shadow Hive.  
+- **Alchemist Token**: unlocked with Alchemist Hive.
+
+When the **Mother Hive** reaches **Level 3**, it unlocks a container with **6 slots**.  
+You can insert Tokens to control the types of Metapises you summon:
+
+- One token = 1 out of 6 minions will be that type.  
+- One empty slot = 1 out of 6 minions will be randomized among available types.
+
+**Examples:**
+
+1. Built Moonguard, Shadow, and Healer Hives. Slots: Moonguard x2, Shadow x2, empty x2.  
+   - For every 6 minions: 2 Moonguards, 2 Shadows, 2 random (Moonguard/Shadow/Healer).
+
+2. Built Moonguard, Shadow, and Healer Hives. Slots: Shadow x6.  
+   - All summoned minions are Shadows.
+
+3. Built Moonguard, Shadow, and Healer Hives. Slots: Shadow x3, Moonguard x3.  
+   - 3 Shadows and 3 Moonguards per 6 minions.
+
+
+
 
 # **Items** <a name="items"></a>
 
