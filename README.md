@@ -207,11 +207,6 @@ You can insert Tokens to control the types of Metapises you summon:
 - 40 damage, 200 uses
 - Bees summoned on attack using Melissa will be a bit stronger.
 
-## **Sting Trap**
-![Sting Trap](https://i.imgur.com/xIX2uUs.png)
-- Slows foes when they step on it. Deals 10 damage periodically to all foes. Consumes 1 use per foe.
-- Spoils after 8 days, has 250 uses.
-
 ## **Pollen**
 ![Pollen](https://i.imgur.com/aatBqPp.png)
 - Can be picked from flowers. Regrows after 2 days in game.
@@ -269,13 +264,22 @@ You can insert Tokens to control the types of Metapises you summon:
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/iqvUQKq.png) <br> Metapis Mimic I | Evolve Metapis Soldiers into Metapis Mimics, which randomly change their attacks based on nearby Metapises. | Cannot activate more than 4 Metapis skill trees. |
 
+
+### **Metapis Alchemist**
+
+| **Skill** | **Description** | **Prerequisites** |
+| :----------------: | :------ | :---- |
+| ![](https://i.imgur.com/5oV6MKk.png) <br> Metapis Alchemist I | Metapis Alchemists periodically emit pheromones that briefly frenzy nearby allies, boosting attack speed but increasing damage taken. | Cannot activate more than 4 Metapis skill trees. |
+| ![](https://i.imgur.com/i1gg3OJ.png) <br> Metapis Alchemist II | When a Metapis dies in frenzy, it explodes, dealing double damage in a small area. | Metapis Alchemist I |
+
+
 ## **Honeysmith** 
 
 
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
-| ![](https://i.imgur.com/avtK6QQ.png) <br> Melissa I | Every 4th attack with Melissa, Wuzzy slams the target for 2x damage. Also double Melissa's max uses. | Available from the start. |
-| ![](https://i.imgur.com/sEuzkkR.png) <br> Melissa II | Wuzzy uses Melissa to switch places with another Metapis, at the cost of item durability. | Melissa I |
+| ![](https://i.imgur.com/avtK6QQ.png) <br> Melissa I | Every 4th attack with Melissa, Wuzzy slams the target for 3x damage. Also double Melissa's max uses. | Available from the start. |
+| ![](https://i.imgur.com/sEuzkkR.png) <br> Melissa II | Wuzzy uses Melissa to swap with another Metapis, consuming durability. The swapped Metapis becomes frenzied and enraged. Melissa now deals 52 damage. | Melissa I |
 
 ## **Affinity**
 
