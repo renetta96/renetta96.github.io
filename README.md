@@ -204,8 +204,8 @@ You can insert Tokens to control the types of Metapises you summon:
 
 ## **Melissa**
 ![Melissa](https://i.imgur.com/36uY5Fp.png)
-- 40 damage, 200 uses
-- Bees summoned on attack using Melissa will be a bit stronger.
+- 40 damage, 150 uses
+- Minions summoned on attack using Melissa will be a bit stronger.
 
 ## **Pollen**
 ![Pollen](https://i.imgur.com/aatBqPp.png)
