@@ -167,6 +167,8 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 
 ![](https://i.imgur.com/0iWltIZ.png) ![](https://i.imgur.com/K2QWMui.png) ![](https://i.imgur.com/XRT2qlJ.png) ![](https://i.imgur.com/z25xjsL.png) ![](https://i.imgur.com/roEIMIv.png) ![](https://i.imgur.com/vug3xtj.png)
 
+**In short, they are used to control how many minions of each type you want to summon.**
+
 There are 6 types of Tokens, each tied to a Metapis:
 
 - **Soldier/Mimic Token**: unlocked from the start.  
