@@ -128,7 +128,7 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 - Tanky.
 - Taunts nearby enemies every second.
 - Mother Hive stage 2: +50% damage absorption.
-- Mother Hive stage 3: on hit, slow attacker's attack speed + movement speed, freeze attacker when stack enough (like Chilled Amulet).
+- Mother Hive stage 3: on hit, apply Frostbite debuffs that reduce attacker's movement speed and damage, stack up to 5 times (50% reduced movement speed, 10% reduced damage). Also may add coldness, that eventually freeze attackers if stacks enough (like Chilled Amulet).
 
 ## **Metapis Voltwing**
 ![Metapis Voltwing](https://i.imgur.com/hihMnda.png)
@@ -152,9 +152,10 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 ![Metapis Mimic](https://i.imgur.com/bfHIAo2.png)
 - Evolves from Metapis Soldier via Skill Tree. Randomly changes attacks based on nearby Metapises: 
   + Metapis Mutant: Deals poison attacks and causes poison ticks to have a chance to deal increased damage.
-  + Metapis Shadow: Has a chance to cause a spike area attack.
-  + Metapis Moonguard: Freezes the target and deals extra % health damage when the target unfreezes.
+  + Metapis Shadow: Has a chance to cause a spike area attack. May shred damage absorption from enemies, causing them to take more damage, stack up to 20 times (20% more damage taken).
+  + Metapis Moonguard: Add coldness to the target and deals extra % health damage when the target unfreezes.
   + Metapis Voltwing: Has a chance to trigger an immediate attack from a nearby Voltwing.
+  + Metapis Alchemist: Has a chance to heal a nearby ally. 
 
 ## **Metapis Alchemist**
 ![Metapis Alchemist](https://i.imgur.com/mkCEPdR.png)
@@ -235,7 +236,7 @@ You can insert Tokens to control the types of Metapises you summon:
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/RBJYHEM.png) <br> Metapis Mutant I | Less poison base damage but it becomes stackable. Maximum 20 stacks. | Cannot activate more than 4 Metapis skill trees. |
-| ![](https://i.imgur.com/cCUfpks.png) <br> Metapis Mutant II | Directly summoned Metapis Mutants have a chance to coat Wuzzy's attacks in poison. This effect lasts 10 seconds. | Metapis Mutant I |
+| ![](https://i.imgur.com/cCUfpks.png) <br> Metapis Mutant II | Directly summoned Metapis Mutants have a chance to coat Wuzzy’s attacks in poison for 10 seconds. This coating also gives poison ticks on the target a chance to deal increased damage. | Metapis Mutant I |
 
 ### **Metapis Shadow**
 
@@ -262,14 +263,15 @@ You can insert Tokens to control the types of Metapises you summon:
 
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
-| ![](https://i.imgur.com/iqvUQKq.png) <br> Metapis Mimic I | Evolve Metapis Soldiers into Metapis Mimics, which randomly change their attacks based on nearby Metapises. | Cannot activate more than 4 Metapis skill trees. |
+| ![](https://i.imgur.com/iqvUQKq.png) <br> Metapis Mimic I | Evolve Metapis Soldiers into Metapis Mimics, which periodically adapt their abilities based on nearby Metapises. They can only hold 1 ability mostly, but sometimes can hold up to 2 abilities. | Cannot activate more than 4 Metapis skill trees. |
+| ![](https://i.imgur.com/FhMrzP6.png) <br> Metapis Mimic II | Metapis Mimics can now retain up to 2 abilities, and sometimes can hold up to 3. | Metapis Mimic I |
 
 
 ### **Metapis Alchemist**
 
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
-| ![](https://i.imgur.com/5oV6MKk.png) <br> Metapis Alchemist I | Metapis Alchemists periodically emit pheromones that briefly frenzy nearby allies, boosting attack speed but increasing damage taken. | Cannot activate more than 4 Metapis skill trees. |
+| ![](https://i.imgur.com/5oV6MKk.png) <br> Metapis Alchemist I | Metapis Alchemists periodically release pheromones, briefly frenzying nearby allies to boost attack speed but increase damage taken. Their heal orbs also gain Wuzzy’s bonus movement speed for a short time, stacking up to 3 times. | Cannot activate more than 4 Metapis skill trees. |
 | ![](https://i.imgur.com/i1gg3OJ.png) <br> Metapis Alchemist II | When a Metapis dies in frenzy, it explodes, dealing double damage in a small area. | Metapis Alchemist I |
 
 
