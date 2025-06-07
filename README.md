@@ -245,7 +245,7 @@ You can insert Tokens to control the types of Metapises you summon:
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/OWlybvW.png) <br> Metapis Shadow I | Metapis Shadows can summon Shadowlings to attack enemies. These melee minions have health decay over time and any damage received is capped at 15% max health. | Cannot activate more than 4 Metapis skill trees. |
-| ![](https://i.imgur.com/2G7UMRd.png) <br> Metapis Shadow II | When a Metapis dies, there is a chance to spawn Shadowlings. When Shadowlings die, they have a chance to damage nearby enemies with spikes. | Metapis Shadow I |
+| ![](https://i.imgur.com/2G7UMRd.png) <br> Metapis Shadow II | When a Metapis dies, it has a chance to spawn Shadowlings. On death, Shadowlings may release damaging spikes at nearby enemies. If Metapis Alchemist II is activated and the dying Metapis is frenzied, it will always spawn frenzied Shadowlings instead. | Metapis Shadow I |
 
 ### **Metapis Moonguard**
 
@@ -258,8 +258,8 @@ You can insert Tokens to control the types of Metapises you summon:
 
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
-| ![](https://i.imgur.com/XsXNFX5.png) <br> Metapis Voltwing I | Metapis Voltwings orbit around their target, periodically firing electric balls. | Cannot activate more than 4 Metapis skill trees. |
-| ![](https://i.imgur.com/55LEHJV.png) <br> Metapis Voltwing II | Metapis Voltwings charge up electricity with each attack. At maximum charge, an electric wisp spawns and accelerates toward their target. | Metapis Voltwing I |
+| ![](https://i.imgur.com/XsXNFX5.png) <br> Metapis Voltwing I | Metapis Voltwings orbit around their target, periodically firing electric orbs. Each attack builds up their charge, and at full power, they unleash an electric wisp that accelerates toward the target, dealing damage on impact. | Cannot activate more than 4 Metapis skill trees. |
+| ![](https://i.imgur.com/55LEHJV.png) <br> Metapis Voltwing II | Metapis Voltwings' attacks apply a debuff to their target. When the target thaws, electric wisps erupts from them and circles back to strike again. Additionally, Wuzzy's attacks have a chance to charge some nearby Voltwings. | Metapis Voltwing I |
 
 ### **Metapis Mimic**
 
@@ -274,7 +274,7 @@ You can insert Tokens to control the types of Metapises you summon:
 | **Skill** | **Description** | **Prerequisites** |
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/5oV6MKk.png) <br> Metapis Alchemist I | Metapis Alchemists periodically release pheromones, briefly frenzying nearby allies to boost attack speed but increase damage taken. Their heal orbs also gain Wuzzy’s bonus movement speed for a short time, stacking up to 3 times. | Cannot activate more than 4 Metapis skill trees. |
-| ![](https://i.imgur.com/i1gg3OJ.png) <br> Metapis Alchemist II | When a Metapis dies in frenzy, it explodes, dealing double damage in a small area. | Metapis Alchemist I |
+| ![](https://i.imgur.com/i1gg3OJ.png) <br> Metapis Alchemist II | When a Metapis dies while frenzied, it explodes, dealing double damage in a small area. If Metapis Shadow II is active, it always spawns Shadowlings on death and sends them into a frenzy. | Metapis Alchemist I |
 
 
 ## **Honeysmith** 
