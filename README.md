@@ -64,8 +64,8 @@
 - Allows Mother Hive / Teleportal and Wuzzy to spawn/summon more types of Metapis to fight.
 - Each hive adds 1 max bee to Mother Hive. Each 2 hives adds 1 bee to Wuzzy's pool.
 - Can only be built near a Mother Hive.
-- Extra bees from Child Hives consume honey in Container periodically. Without enough honey, they gradually die.
-- Regenerating extra bees cost honey. Without enough honey, they stop regenerating.
+- Extra bees from Child Hives consume honey in Container periodically. Without enough honey, they gradually die. The honey cost grows exponentially with Mother Hive level and number of extra bees.
+- Regenerating extra bees cost honey. Without enough honey, they stop regenerating. The honey cost grows exponentially with Mother Hive level and number of extra bees.
 
 ### **Metapis Moonguard Hive**
 ![Metapis Moonguard Hive](https://i.imgur.com/zI5m1RN.png)
