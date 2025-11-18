@@ -22,7 +22,8 @@
 - Damage modifier: 0.75
 
 **Perks**
-- Has 70% chance to summon bees on attack, maximum of 4. Initially he has a pool of maximum 6 bees, when a bee is summoned, it takes some time based on his hunger to refill the pool.
+- Has chance to summon bees on attack, maximum of 4. Initially he has a pool of maximum 6 bees.
+- Refilling the pool costs both hunger and time, scaled to his current hunger. Refilling stops below 20% hunger.
 - Gains 25% bonus from [honeyed and sweet foods](https://dontstarve.fandom.com/wiki/Sweetener). Only get 50% from non-honeyed foods. His favorite food is Honey Ham.
 - Runs faster in spring, slower in winter.
 - Has coldness resistance based on number of symbiotic bees he currently has.
@@ -34,9 +35,9 @@
 
 ## **Metapis Mother Hive**
 ![Metapis Mother Hive](https://i.imgur.com/1zfmgxb.png)
-- At most one can be built at a time per world per Wuzzy.
-- Provides 10 sanity per minute when stand nearby.
-- Requires 3 honeycombs to upgrade to level 2, and 3 Royal Jelly to level 3.
+- At most one can be built at a time per world.
+- Provides sanity when stand nearby.
+- Can be upgraded to level 3.
 - Repairs itself and nearby child hives slowly.
 - Releases bees to protect Wuzzy players.
 - Level 2 & 3 each adds 1 extra to Wuzzy's bees pool.
@@ -47,8 +48,8 @@
 ![Metapis Container](https://i.imgur.com/ULxlGL6.png)
 - Limit to 1 per Mother Hive.
 - Can contain honey and pollen. Honey stops perishing when put into the container.
-- Can contain Honey Armor to refresh it using honey.
-- Produces up to 3 honeys from pollen every minute. Each honey costs 5 to 7 pollen.
+- Can refresh Honey Armor using honey if put inside.
+- Produces honey from pollen periodically. 
 
 
 ## **Metapis Teleportal**
@@ -57,11 +58,14 @@
 **Tier:** ![Tier](https://i.imgur.com/l03Rzrl.png)
 
 - Teleports bees from Mother Hive to fight for Wuzzy.
+- May cost honey every time a bee is summoned.
 
 ## **Child Hives**
 - Allows Mother Hive / Teleportal and Wuzzy to spawn/summon more types of Metapis to fight.
 - Each hive adds 1 max bee to Mother Hive. Each 2 hives adds 1 bee to Wuzzy's pool.
 - Can only be built near a Mother Hive.
+- Extra bees from Child Hives consume honey in Container periodically. Without enough honey, they gradually die.
+- Regenerating extra bees cost honey. Without enough honey, they stop regenerating.
 
 ### **Metapis Moonguard Hive**
 ![Metapis Moonguard Hive](https://i.imgur.com/zI5m1RN.png)
@@ -121,7 +125,7 @@ Recipe: 40 Honey, 1 Honeycomb, 4 Killerbee
 ![Metapis Soldier](https://i.imgur.com/T01zomk.png)
 - Can be spawned/summoned by default.
 - Mother Hive stage 2: +25% damage absorption.
-- Mother Hive stage 3: has 35% chance to immediately reset attack cooldown on attacked.
+- Mother Hive stage 3: has chance to immediately reset attack cooldown on attacked.
 
 ## **Metapis Moonguard**
 ![Metapis Moonguard](https://i.imgur.com/lpDqOAP.png)
@@ -200,7 +204,7 @@ You can insert Tokens to control the types of Metapises you summon:
 ## **Honey Suit**
 ![Honey Suit](https://i.imgur.com/KScIwLf.png)
 - Indestructible, but perish over time like Ham Bat.
-- Damage absorption from 55-70% based on spoilage.
+- Damage absorption from 50-70% based on spoilage.
 - When hit, recovers health per 3 seconds for 3 times based on spoilage and lost health.
 - Adds 1 to Wuzzy's bee pool, and helps refill the pool up to 33% faster based on spoilage.
 - Can be put in Mother Hive to stop perishing and refresh spoilage by consuming honey.
