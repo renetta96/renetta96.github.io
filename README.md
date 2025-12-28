@@ -288,6 +288,8 @@ You can insert Tokens to control the types of Metapises you summon:
 | :----------------: | :------ | :---- |
 | ![](https://i.imgur.com/avtK6QQ.png) <br> Melissa I | Every 4th attack with Melissa, Wuzzy slams the target for 3x damage. Also double Melissa's max uses. | Available from the start. |
 | ![](https://i.imgur.com/sEuzkkR.png) <br> Melissa II | Wuzzy uses Melissa to swap with another Metapis, consuming durability. The swapped Metapis becomes frenzied and enraged. Melissa now deals 52 damage. | Melissa I |
+| ![](https://i.imgur.com/934NFbp.png) <br> Honey Suit I | Honey Suit now stores absorbed damage. Exceeding 150 releases stingers that strike nearby enemies, with damage scaling by the number of summoned Metapises. Unequipping resets stored damage, and stored damage rapidly decays after a period without taking hits. | Available from the start. |
+| ![](https://i.imgur.com/zYEfab8.png) <br> Honey Suit II | When Wuzzy is attacked while wearing the Honey Suit, there is a chance to summon a Metapis. Releasing stingers always summons 1 Metapis. These summons are tracked separately and have the same cap. | Honey Suit I |
 
 ## **Affinity**
 
